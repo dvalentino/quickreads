@@ -36,3 +36,6 @@
 2. **PROTOTYPING:**  Construct a prototype of the *Business Model*.
 3. **TESTING:**  Iterative process of talking to customers to validate the design of the model.
 ---
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM4NTYwNDkzNF19
+-->
